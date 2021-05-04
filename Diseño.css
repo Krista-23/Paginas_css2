@@ -1,0 +1,281 @@
+        /* Indice */
+body {
+    width: 100%;
+    margin: auto;
+}
+
+.text1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+}
+
+.subtitulos {
+    font-family: cursive;
+    font-size: 24px;
+    color: crimson;
+}
+
+.menu-principal {
+    width: 70%;
+    margin: auto;
+    float: left;
+}
+
+aside {
+    width: 27%;
+    margin: auto;
+    float: left;
+    padding:0 2cm;
+    box-sizing: border-box;
+    background-color: lightpink;
+}
+
+.links-principales {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-left: 0;
+    list-style: none;
+    display: flex;
+    background-color: lightcoral;
+
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 0;
+    height: 50px;
+}
+
+.links-principales a {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.links-principales li:hover {
+    background-color: lightskyblue;
+}
+
+
+
+
+        /* Tipos Flores */
+
+.titulo1 {
+    font-family: cursive;
+    font-size: 20px;
+    color: crimson;
+}
+
+.text2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+}
+
+.punto-1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;
+}
+
+.links-2 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-left: 0;
+    list-style: none;
+    display: flex;
+    background-color: lightcoral;
+
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 0;
+    height: 50px;
+}
+
+.links-2 a {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.links-2 li:hover {
+    background-color: lightgrey;
+}
+
+
+
+
+
+        /* Ramos */
+
+main > article table {
+    float: left;
+    margin: 1.5em;
+    position: relative;
+    top: -3em;
+}
+
+main > article .video {
+    float: right;
+    margin-right: 1.6em;
+}
+
+main > .block-1 {
+    float: left;
+    margin-left: 1.5em;
+}
+
+main > .block-2 {
+    float: left;
+    margin-left: 1.5em;
+}
+
+.text3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 17px;
+    color: crimson;
+}
+
+.text4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.text5 {
+    font-size: 18px;
+}
+
+.text6 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: green;
+}
+
+.video {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.links-3 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-left: 0;
+    list-style: none;
+    display: flex;
+    background-color: lightseagreen;
+
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 0;
+    height: 50px;
+}
+
+.links-3 a {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.links-3 li:hover {
+    background-color: lightpink;
+}
+
+
+/* Sucursales */
+
+footer {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    clear: both;
+    padding: 1.6em;
+    background-color: lightgreen;
+}
+
+.block-3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.titulo3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: indianred;
+}
+
+.links-4 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-left: 0;
+    list-style: none;
+    display: flex;
+    background-color: lightgreen;
+
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 0;
+    height: 50px;
+}
+
+.links-4 a {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.links-4 li:hover {
+    background-color: lightcyan;
+}
+
+
+/* Contactos */
+
+.block-5 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: blanchedalmond;
+}
+
+.titulo-6 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: whitesmoke;
+}
+
+.text7 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.block-6 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-right: 3em;
+    color: blanchedalmond;
+}
+
+
+.info-2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: black;
+}
+
+.links-5 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-left: 0;
+    list-style: none;
+    display: flex;
+    background-color: darksalmon;
+
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 0;
+    height: 50px;
+}
+
+.links-5 a {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.links-5 li:hover {
+    background-color: lightgreen;
+}
